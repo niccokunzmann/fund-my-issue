@@ -9,3 +9,4 @@ It offers these features:
 - Automatic integration into issues as comment or edit
 - Set a funding goal
 - API first!
+- Allow splitting and assigning funds to contributors
