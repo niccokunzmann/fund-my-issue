@@ -10,3 +10,10 @@ It offers these features:
 - Set a funding goal
 - API first!
 - Allow splitting and assigning funds to contributors
+
+
+Related Work
+------------
+
+- polar.sh has a fund issues feature
+- gitpay allows funding for issues
